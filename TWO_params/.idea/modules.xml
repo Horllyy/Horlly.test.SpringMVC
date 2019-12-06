@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../FOUR_fileupload/FOUR_fileupload.iml" filepath="$PROJECT_DIR$/../FOUR_fileupload/FOUR_fileupload.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../THREE_response/THREE_response.iml" filepath="$PROJECT_DIR$/../THREE_response/THREE_response.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TWO_params.iml" filepath="$PROJECT_DIR$/TWO_params.iml" />
+    </modules>
+  </component>
+</project>
